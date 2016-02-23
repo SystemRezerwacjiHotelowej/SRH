@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SystemRezerwacjiHotelowej {
+namespace SystemRezerwacji {
     
     
     public partial class _Default {

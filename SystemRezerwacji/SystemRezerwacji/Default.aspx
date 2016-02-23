@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SystemRezerwacjiHotelowej._Default" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SystemRezerwacji._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
@@ -11,7 +11,6 @@
        <p> Data przyjazdu :   <asp:Button ID="Button1" runat="server" Text="Button" /></p>
        <p> Data wyjazdu:  <asp:Button ID="Button2" runat="server" Text="Button" /></p>
     </asp:Panel>
-    test
     
 
 </asp:Content>
