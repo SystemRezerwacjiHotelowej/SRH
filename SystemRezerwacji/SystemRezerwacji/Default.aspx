@@ -11,6 +11,7 @@
        <p> Data przyjazdu :   <asp:Button ID="Button1" runat="server" Text="Button" /></p>
        <p> Data wyjazdu:  <asp:Button ID="Button2" runat="server" Text="Button" /></p>
     </asp:Panel>
+    test
     
 
 </asp:Content>
